@@ -2,6 +2,8 @@
 
 Static project website for **FADE: Fractional Anomalous Dynamics Extrapolation for Training-Free Diffusion Transformers Acceleration** (NeurIPS 2026).
 
+Live site: https://youngkinlon.github.io/fade-project-page/
+
 Open `index.html` in a browser, or run `python -m http.server 8000` from this directory and visit `http://localhost:8000`.
 
 ## Images
